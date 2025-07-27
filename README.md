@@ -16,17 +16,6 @@ Each folder in this repo is a standalone project with its own code and descripti
 
 ---
 
-## 📂 Project List
-
-| Project | Description |
-|--------|-------------|
-| `calculator-app/` | A simple CLI calculator that performs basic arithmetic operations |
-| `password-generator/` | Random password generator with options for length and character types |
-| `netflix-data-analysis/` | Exploratory data analysis (EDA) on Netflix dataset using pandas and matplotlib |
-| `ipl-analysis/` | IPL match and player data analysis using pandas |
-| `covid-data-tracker/` | Analysis of COVID-19 cases by country using real dataset |
-
----
 
 ## 📌 Note
 
@@ -45,5 +34,5 @@ This repo is mainly for learning and practicing Python concepts. Each project in
 
 ---
 
-Feel free to explore and suggest improvements! 😊
+
 
